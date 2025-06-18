@@ -1,0 +1,46 @@
+[
+  {
+    "patterns": ["apa itu cryptocurrency", "definisi crypto", "pengertian mata uang digital"],
+    "response": "Cryptocurrency adalah bentuk mata uang digital atau virtual yang menggunakan teknologi blockchain untuk memastikan keamanan dan transparansi. Contohnya adalah Bitcoin (BTC), Ethereum (ETH), dan Binance Coin (BNB)."
+  },
+  {
+    "patterns": ["cara memulai belajar crypto", "belajar dasar crypto", "pemula crypto"],
+    "response": "Untuk memulai belajar crypto, kamu bisa:\n1. Pelajari dasar-dasar blockchain\n2. Ikuti kursus online gratis di platform seperti Coursera atau Binance Academy\n3. Mulai dengan membaca whitepaper dari proyek crypto populer\n4. Gunakan aplikasi demo trading untuk latihan"
+  },
+  {
+    "patterns": ["cara membeli crypto", "cara beli bitcoin", "cara beli ethereum"],
+    "response": "Cara membeli crypto:\n1. Pilih platform exchange terpercaya (seperti Binance, Tokocrypto, Indodax)\n2. Buat akun dan lakukan verifikasi\n3. Lakukan deposit via transfer bank atau e-wallet\n4. Cari aset crypto yang ingin dibeli (misal BTC/USDT)\n5. Tempatkan order pembelian"
+  },
+  {
+    "patterns": ["wallet crypto", "dompet digital", "penyimpanan crypto"],
+    "response": "Wallet crypto adalah tempat penyimpanan kripto. Ada dua jenis utama:\n- **Hot Wallet**: Terhubung ke internet, contoh: Trust Wallet, MetaMask\n- **Cold Wallet**: Tidak terhubung ke internet, contoh: Ledger, Trezor\nPastikan selalu menyimpan recovery phrase secara aman!"
+  },
+  {
+    "patterns": ["blockchain itu apa", "pengertian blockchain", "teknologi blockchain"],
+    "response": "Blockchain adalah teknologi pencatatan data secara terdistribusi dan tidak dapat diubah. Setiap blok berisi informasi transaksi dan dirantai satu sama lain. Teknologi ini menjadi dasar bagi cryptocurrency seperti Bitcoin."
+  },
+  {
+    "patterns": ["risiko investasi crypto", "bahaya crypto", "kelemahan investasi crypto"],
+    "response": "Investasi crypto memiliki risiko tinggi karena volatilitas harga yang tinggi. Selain itu juga ada risiko keamanan (scam, hack), regulasi pemerintah, serta kurangnya perlindungan konsumen. Pastikan kamu melakukan riset sebelum berinvestasi."
+  },
+  {
+    "patterns": ["platform trading crypto", "exchange crypto", "tempat jual beli crypto"],
+    "response": "Beberapa platform trading crypto populer:\n- Global: Binance, Coinbase, KuCoin\n- Indonesia: Indodax, Tokocrypto, Pintu\nPilih platform yang aman, teregulasi, dan mudah digunakan."
+  },
+  {
+    "patterns": ["cara analisis crypto", "analisis fundamental crypto", "analisis teknikal crypto"],
+    "response": "Ada dua cara utama analisis crypto:\n- **Analisis Fundamental**: Menganalisis tim, roadmap, teknologi, dan adopsi proyek\n- **Analisis Teknikal**: Menggunakan grafik harga dan indikator seperti RSI, MACD, Moving Average untuk memprediksi pergerakan harga"
+  },
+  {
+    "patterns": ["token vs coin", "beda token dan coin", "perbedaan token coin"],
+    "response": "Coin seperti Bitcoin atau Ethereum adalah aset native dari blockchain mereka sendiri. Token (seperti USDT, BNB) dibuat di atas blockchain yang sudah ada (contoh: ERC-20 di Ethereum)."
+  },
+  {
+    "patterns": ["staking crypto", "cara mendapatkan passive income crypto", "earn crypto"],
+    "response": "Staking adalah proses menyimpan crypto di wallet atau platform untuk mendukung operasional jaringan blockchain dan mendapatkan imbalan. Platform seperti Binance, KuCoin, dan Aave menawarkan layanan staking dan yield farming."
+  },
+  {
+    "patterns":["Terimakasih", "Terima kasih", "Terima", "Kasih"],
+    "response": "Sama sama senang membantu kamu hari ini, Jika ada pertanyaan lain silahkan tanya, saya akan menjabanya dengan senang hati😊"
+  }
+]

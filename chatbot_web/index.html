@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PRYR Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="chat-wrapper">
+  <!-- Form Input Nama -->
+  <div id="name-form-container" class="centered">
+    <h2>👋 Halo Selamat datang !</h2>
+    <p>Masukkan nama Anda:</p>
+    <input type="text" id="userNameInput" placeholder="Nama Anda..." />
+    <button onclick="startChat()">Mulai Chat</button>
+  </div>
+
+  <!-- Chat Container -->
+  <div id="chat-container" class="hidden">
+    <!-- Header -->
+    <div class="chat-hea.com/40?text=Alucardder">
+      <img src="LOGO.png" alt="Avatar" id="bot-avatar" />
+      <center> <h2>PRYR CHATBOT</h2>
+        <small></small></center>
+    </div>
+
+    <!-- Chat Box -->
+    <div id="chat-box"></div>
+
+    <!-- Input Area -->
+    <div class="chat-input">
+      <input type="text" id="userInput" placeholder="Ketik pertanyaan Anda..." disabled />
+      <button onclick="sendMessage()" disabled>Kirim</button>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
